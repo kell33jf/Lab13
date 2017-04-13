@@ -1,2 +1,2 @@
 # Lab13
-For School Lab Project
+GitHub Intro Lab
